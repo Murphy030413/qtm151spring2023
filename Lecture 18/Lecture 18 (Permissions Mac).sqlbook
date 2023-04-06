@@ -15,6 +15,8 @@ your files to a temporary folder. Follow these steps
 
 - Type "open /tmp"
 - This will open a window in finder "tmp"
+-- SQLBook: Code
+
 -- SQLBook: Markup
 <font size = "5">
 
